@@ -13,22 +13,4 @@
     This python script is used for copy all the images from Group folder to common folder (i.e. CustomTestImages) _[in this case]_  
     this script is work only when folder structure is like,
     
-    -CustomTestImages
-    
-    -Group1
-    
-      -red
-      
-      -green
-      
-      -none
-      
-    -Group2
-    
-      -red
-      
-      -green
-      
-      -none
-      
-    ChangeFileName_CopyToCommonDir.py  
+    ![screenshot from 2017-04-22 22 39 20](https://cloud.githubusercontent.com/assets/19832536/25306535/929623f6-27ac-11e7-80b2-539824331f5a.png)
